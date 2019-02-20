@@ -11,4 +11,4 @@ echo "Bonjour $nom !"
 
 read -p 'Enter your login (6 characters max) :' -n 6 log
 
-echo "Hello $log !"
+echo -e  "\n Hello $log !"
